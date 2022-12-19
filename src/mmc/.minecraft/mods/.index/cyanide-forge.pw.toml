@@ -1,0 +1,14 @@
+name = "Cyanide (Forge)"
+filename = "cyanide-forge-1.18.2-2.1.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "408410864053635ad92ad0433b138d4c4d60a9a9"
+
+[update]
+[update.curseforge]
+file-id = 3811793
+project-id = 541676

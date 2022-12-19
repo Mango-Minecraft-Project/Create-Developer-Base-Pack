@@ -1,0 +1,14 @@
+name = "Info Datapack"
+filename = "InfoDataPack-1.18.1-2.0.2.8.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c7d69ed60d70f4776e64057a36acc50b7324e5a5"
+
+[update]
+[update.curseforge]
+file-id = 3736320
+project-id = 422087

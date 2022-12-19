@@ -1,0 +1,14 @@
+name = "Tell Me My Items"
+filename = "TellMeMyItems-1.18-1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "3f95b21d5963448cc65d21c64edfb093e847da9d"
+
+[update]
+[update.curseforge]
+file-id = 3861632
+project-id = 640480

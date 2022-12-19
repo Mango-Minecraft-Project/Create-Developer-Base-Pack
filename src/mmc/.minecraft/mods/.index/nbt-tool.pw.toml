@@ -1,0 +1,14 @@
+name = "NBT Tool"
+filename = "nbttool-2.1.0-mc1.18.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "97f4885173917cf815e289dc65b564857480a416"
+
+[update]
+[update.curseforge]
+file-id = 3748971
+project-id = 451553
